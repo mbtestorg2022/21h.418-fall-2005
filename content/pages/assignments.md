@@ -9,16 +9,93 @@ This section contains homework assignments and instructions for the [papers](#Pa
 Homework
 --------
 
-| LEC # | ASSIGNMENTS |
-| --- | --- |
-| 2 | Homework 1: Ong, _Orality and Literacy_ ([PDF]({{< baseurl >}}/resources/hw1)) |
-| 3 | Homework 2: Was There a Printing Revolution? ([PDF]({{< baseurl >}}/resources/hw2)) |
-| 4 | Homework 3: English Chapbooks ([PDF]({{< baseurl >}}/resources/hw3)) |
-| 5 | Homework 4: Eisenstein's Printing Revolution Revisited ([PDF]({{< baseurl >}}/resources/hw4)) |
-| 8 | Homework 5: Inkan Khipus ([PDF]({{< baseurl >}}/resources/hw5)) |
-| 9 | Homework 6: Scripts, Grooves, and Writing Machines ([PDF]({{< baseurl >}}/resources/hw6)) |
-| 11 | Homework 7: Book Clubs: Women and the Uses of Reading in Everyday Life ([PDF]({{< baseurl >}}/resources/hw7)) |
-| 12 | Homework 8: Digitizing the News: Innovation in Online Newspapers ([PDF]({{< baseurl >}}/resources/hw8)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1: Ong, _Orality and Literacy_ ([PDF]({{< baseurl >}}/resources/hw1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2: Was There a Printing Revolution? ([PDF]({{< baseurl >}}/resources/hw2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3: English Chapbooks ([PDF]({{< baseurl >}}/resources/hw3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4: Eisenstein's Printing Revolution Revisited ([PDF]({{< baseurl >}}/resources/hw4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5: Inkan Khipus ([PDF]({{< baseurl >}}/resources/hw5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6: Scripts, Grooves, and Writing Machines ([PDF]({{< baseurl >}}/resources/hw6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7: Book Clubs: Women and the Uses of Reading in Everyday Life ([PDF]({{< baseurl >}}/resources/hw7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8: Digitizing the News: Innovation in Online Newspapers ([PDF]({{< baseurl >}}/resources/hw8))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Papers" >}}{{< /anchor >}}
 

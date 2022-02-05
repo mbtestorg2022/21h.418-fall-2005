@@ -14,13 +14,66 @@ Subject Requirements
 
 Active class participation is central to our work together. Attendance is mandatory, and students are expected to arrive in class on time and prepared to discuss common readings. A student who misses two or more class sessions will automatically fail the subject. At the beginning of most class sessions, students will hand in two-page papers that address issues from that week's readings; the questions will be distributed in advance. A ten-page paper will be due in class in Lec #6, and a five page paper due on the last day of classes, five days after Lec #12. I will hand out instructions for these assignments later in the semester. There will be no exams and no final. Each assignment will be weighted as follows in the calculation of the final grade, although these calculations will also take into account improved performance during the course of the semester:
 
-| ACTIVITIES | VALUES |
-| --- | --- |
-| Class Participation | 40 points |
-| Homework (8 Assignments) | 40 points (5 points each) |
-| Ten-page Paper | 80 points |
-| Five-page Paper | 40 points |
-| Total | 200 points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+VALUES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+40 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework (8 Assignments)
+{{< tdclose >}}
+{{< tdopen >}}
+40 points (5 points each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ten-page Paper
+{{< tdclose >}}
+{{< tdopen >}}
+80 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five-page Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+200 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Statement on Cheating and Plagiarism
 ------------------------------------
@@ -33,18 +86,177 @@ The Web now hosts many sites which offer college-level papers of varying quality
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: The Perpetually Imminent Demise of the Book |  |
-| 2 | Theorizing Orality and Literacy | Homework 1 due |
-| 3 | Was There a "Printing Revolution"? | Homework 2 due |
-| 4 | English Chapbooks | Homework 3 due |
-| 5 | A Visit to the Burndy Library | Homework 4 due |
-| 6 | Critiquing Early Printing Assignments | Ten-page paper due |
-| 7 | Typesetting |  |
-| 8 | An Alternative to the Technologized Word: The Inkan Khipu (Guest: Prof. Gary Urton, Anthropology, Harvard) | Homework 5 due |
-| 9 | The Technologized Word in the Nineteenth Century | Homework 6 due |
-| 10 | Consultations with Instructor |  |
-| 11 | Reading Communities Today | Homework 7 due |
-| 12 | Reading Online | Homework 8 due |
-| 13 | Conclusion | Five-page paper due 5 days after Lec #12
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Perpetually Imminent Demise of the Book
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Theorizing Orality and Literacy
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Was There a "Printing Revolution"?
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+English Chapbooks
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+A Visit to the Burndy Library
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Critiquing Early Printing Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+Ten-page paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Typesetting
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+An Alternative to the Technologized Word: The Inkan Khipu (Guest: Prof. Gary Urton, Anthropology, Harvard)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Technologized Word in the Nineteenth Century
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Consultations with Instructor
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Communities Today
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Online
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Five-page paper due 5 days after Lec #12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
